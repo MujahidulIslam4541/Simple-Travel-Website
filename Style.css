@@ -236,12 +236,14 @@ ul li a:hover{
         width: 100%;
     }
     .About-us p{
+        font-size:14px;
         width: 100%;
         box-sizing: border-box;
         margin-top: 150px;
     }
     .About-us h2{
-        margin-top: 80px;
+        margin-top: 50px;
+        font-size:20px;
     }
 }
 
